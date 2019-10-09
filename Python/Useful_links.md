@@ -13,3 +13,4 @@
 ### Useful tutorial Links
 
 - [Networking in Python](http://www.tutorialspoint.com/python/python_networking.htm/) - Networking in Python is a very interesting topic for Advanced Python Developers. A set of good tutorials in networking.
+- [Django Girls Tutorial](https://tutorial.djangogirls.org/en/)
